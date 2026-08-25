@@ -1,4 +1,4 @@
-# 🦴 PostureGuard
+# 🦴 Corrector de postura
 
 Aplicación desktop nativa para Windows que monitorea tu postura en tiempo real usando tu webcam y genera alertas cuando detecta mala postura. **100% local y orientada a privacidad** — ningún dato sale de tu computadora.
 
