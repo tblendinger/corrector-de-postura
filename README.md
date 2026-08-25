@@ -68,7 +68,7 @@ Aplicación desktop nativa para Windows que monitorea tu postura en tiempo real 
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/posture-guard.git
+git clone https://github.com/tu-usuario/corrector-de-postura.git
 cd posture-guard
 
 # Instalar dependencias
